@@ -151,11 +151,3 @@ export class LoginPage {
 * Use HTML reports for execution tracking
 
 ---
-
-## 👨‍💻 Author
-
-Playwright Automation Framework using TypeScript
-
-```
-
----

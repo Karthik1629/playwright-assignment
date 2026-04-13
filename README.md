@@ -159,11 +159,3 @@ Playwright Automation Framework using TypeScript
 ```
 
 ---
-
-If you want next, I can also give:
-👉 `.gitignore` file  
-👉 CI/CD GitHub Actions file  
-👉 Real company framework README (advanced version)  
-
-Just tell 👍
-```

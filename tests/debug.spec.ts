@@ -7,5 +7,7 @@ test('Verify successful login', async ({ page }) => {
   await page.fill('#password', 'Password123');
   await page.click('#submit');
 
+//Commit to see the test result in the CI pipeline
+
   await expect(page.locator('.post-title')).toHaveText('Logged In Successfully');
 });

@@ -24,7 +24,7 @@ export class SauceDemoPage {
 
   constructor(page: Page) {
     this.page = page;
-
+//asd
     this.username = page.locator('#user-name');
     this.password = page.locator('#password');
     this.loginBtn = page.locator('#login-button');
